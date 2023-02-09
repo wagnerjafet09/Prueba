@@ -9,5 +9,6 @@ namespace PruebaApp.WForm.Models
     internal class InstructorModel
     {
         public int Id { get; set; }
+        public String First_Name { get; set; }
     }
 }
