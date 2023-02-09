@@ -1,0 +1,12 @@
+C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.WinForm\bin\Debug\PruebaApp.WinForm.exe.config
+C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.WinForm\bin\Debug\PruebaApp.WinForm.exe
+C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.WinForm\bin\Debug\PruebaApp.WinForm.pdb
+C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.WinForm\obj\Debug\PruebaApp.WinForm.csproj.AssemblyReference.cache
+C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.WinForm\obj\Debug\PruebaApp.WinForm.csproj.SuggestedBindingRedirects.cache
+C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.WinForm\obj\Debug\PruebaApp.WinForm.Properties.Resources.resources
+C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.WinForm\obj\Debug\PruebaApp.WinForm.csproj.GenerateResource.cache
+C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.WinForm\obj\Debug\PruebaApp.WinForm.csproj.CoreCompileInputs.cache
+C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.WinForm\obj\Debug\PruebaApp.WinForm.exe
+C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.WinForm\obj\Debug\PruebaApp.WinForm.pdb
+C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.WinForm\obj\Debug\PruebaApp.WinForm.Form1.resources
+C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.WinForm\obj\Debug\PruebaApp.WinForm.Inicio.resources

@@ -1,0 +1,10 @@
+C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.BL\bin\Debug\netstandard2.1\PruebaApp.BL.deps.json
+C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.BL\bin\Debug\netstandard2.1\PruebaApp.BL.dll
+C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.BL\bin\Debug\netstandard2.1\PruebaApp.BL.pdb
+C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.BL\obj\Debug\netstandard2.1\PruebaApp.BL.csproj.AssemblyReference.cache
+C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.BL\obj\Debug\netstandard2.1\PruebaApp.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.BL\obj\Debug\netstandard2.1\PruebaApp.BL.AssemblyInfoInputs.cache
+C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.BL\obj\Debug\netstandard2.1\PruebaApp.BL.AssemblyInfo.cs
+C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.BL\obj\Debug\netstandard2.1\PruebaApp.BL.csproj.CoreCompileInputs.cache
+C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.BL\obj\Debug\netstandard2.1\PruebaApp.BL.dll
+C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.BL\obj\Debug\netstandard2.1\PruebaApp.BL.pdb

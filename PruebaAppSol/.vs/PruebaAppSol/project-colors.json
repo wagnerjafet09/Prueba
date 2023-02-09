@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9d7a9ee1-214f-4fa7-a9a8-9aab9b2162d6": {
+      "ProjectGuid": "9d7a9ee1-214f-4fa7-a9a8-9aab9b2162d6",
+      "DisplayName": "PruebaApp.DAL",
+      "ColorIndex": 0
+    },
+    "0cfd3103-d927-40c8-820a-aa224d7795d2": {
+      "ProjectGuid": "0cfd3103-d927-40c8-820a-aa224d7795d2",
+      "DisplayName": "PruebaApp.BL",
+      "ColorIndex": 1
+    },
+    "993a749b-6a86-46bb-910c-2b7bdc4f7524": {
+      "ProjectGuid": "993a749b-6a86-46bb-910c-2b7bdc4f7524",
+      "DisplayName": "PruebaApp.SL",
+      "ColorIndex": 2
+    },
+    "910ba2a8-ea57-445e-9063-ca65f7eb40ff": {
+      "ProjectGuid": "910ba2a8-ea57-445e-9063-ca65f7eb40ff",
+      "DisplayName": "WindowsFormsApp1",
+      "ColorIndex": 3
+    },
+    "809660bd-7c95-4b3d-a55a-cf513d5795f0": {
+      "ProjectGuid": "809660bd-7c95-4b3d-a55a-cf513d5795f0",
+      "DisplayName": "PruebaApp.WinForm",
+      "ColorIndex": 4
+    },
+    "af1308a2-a57b-4ce7-868b-263a7b4bc406": {
+      "ProjectGuid": "af1308a2-a57b-4ce7-868b-263a7b4bc406",
+      "DisplayName": "PruebaApp.WForm",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
