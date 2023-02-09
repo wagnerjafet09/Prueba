@@ -148,9 +148,9 @@
             this.label2.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
             this.label2.Location = new System.Drawing.Point(481, 314);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(198, 49);
+            this.label2.Size = new System.Drawing.Size(154, 49);
             this.label2.TabIndex = 3;
-            this.label2.Text = "Welcome!";
+            this.label2.Text = "¡Hola!";
             // 
             // label3
             // 
