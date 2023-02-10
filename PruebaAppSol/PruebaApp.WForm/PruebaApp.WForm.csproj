@@ -59,6 +59,7 @@
       <DependentUpon>Log_in.cs</DependentUpon>
     </Compile>
     <Compile Include="Models\InstructorModel.cs" />
+    <Compile Include="Models\StudentModeI.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Home.cs">
