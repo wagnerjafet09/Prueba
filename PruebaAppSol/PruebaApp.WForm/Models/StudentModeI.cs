@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace PruebaApp.WForm.Models
 {
-    internal class InstructorModel
+    internal class StudentModeI
     {
-        public int Id { get; set; }
-        public string First_Name { get; set; }
     }
 }
