@@ -8,5 +8,6 @@ namespace PruebaApp.WForm.Models
 {
     internal class StudentModeI
     {
+        public int Id { get; set; }
     }
 }
