@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j94OgofaK3r1MoMOShei4Ti70LSwNVmoYsw5PP+iPSfRQ0HCogp0L3wbt3Pf8tZ/VLIoK/rbl3DZtctQH5UvGg==",
+  "dgSpecHash": "m8DgZkuTxcaH83P2OmRdgWBiFHupgKW1QwH1MBT0+8VUst0+rtbWWqLi2GdNsw1hVsHAQBwTSS4FmgsYbhq7xw==",
   "success": true,
-  "projectFilePath": "C:\\projects24\\PruebaAppSol\\PruebaApp.DAL\\PruebaApp.DAL.csproj",
+  "projectFilePath": "C:\\PruebaPelix\\Prueba\\PruebaAppSol\\PruebaApp.DAL\\PruebaApp.DAL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

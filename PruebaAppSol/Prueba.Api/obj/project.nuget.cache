@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "SlWyH7rBREyOhA8wVvrGeDH3zsU/5e8Ok8hMSCFepaEDz7Sk8mFyOH83R17jdsKPDaPHHZ0qlxbbf49tUtEmJw==",
+  "success": true,
+  "projectFilePath": "C:\\PruebaPelix\\Prueba\\PruebaAppSol\\Prueba.Api\\Prueba.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI GL65\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\MSI GL65\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\MSI GL65\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\MSI GL65\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\MSI GL65\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\MSI GL65\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -8,3 +8,13 @@ C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.SL\obj\Debug\netstandard2.1\Prueb
 C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.SL\obj\Debug\netstandard2.1\PruebaApp.SL.csproj.CoreCompileInputs.cache
 C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.SL\obj\Debug\netstandard2.1\PruebaApp.SL.dll
 C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.SL\obj\Debug\netstandard2.1\PruebaApp.SL.pdb
+C:\PruebaPelix\Prueba\PruebaAppSol\PruebaApp.SL\bin\Debug\netstandard2.1\PruebaApp.SL.deps.json
+C:\PruebaPelix\Prueba\PruebaAppSol\PruebaApp.SL\bin\Debug\netstandard2.1\PruebaApp.SL.dll
+C:\PruebaPelix\Prueba\PruebaAppSol\PruebaApp.SL\bin\Debug\netstandard2.1\PruebaApp.SL.pdb
+C:\PruebaPelix\Prueba\PruebaAppSol\PruebaApp.SL\obj\Debug\netstandard2.1\PruebaApp.SL.csproj.AssemblyReference.cache
+C:\PruebaPelix\Prueba\PruebaAppSol\PruebaApp.SL\obj\Debug\netstandard2.1\PruebaApp.SL.GeneratedMSBuildEditorConfig.editorconfig
+C:\PruebaPelix\Prueba\PruebaAppSol\PruebaApp.SL\obj\Debug\netstandard2.1\PruebaApp.SL.AssemblyInfoInputs.cache
+C:\PruebaPelix\Prueba\PruebaAppSol\PruebaApp.SL\obj\Debug\netstandard2.1\PruebaApp.SL.AssemblyInfo.cs
+C:\PruebaPelix\Prueba\PruebaAppSol\PruebaApp.SL\obj\Debug\netstandard2.1\PruebaApp.SL.csproj.CoreCompileInputs.cache
+C:\PruebaPelix\Prueba\PruebaAppSol\PruebaApp.SL\obj\Debug\netstandard2.1\PruebaApp.SL.dll
+C:\PruebaPelix\Prueba\PruebaAppSol\PruebaApp.SL\obj\Debug\netstandard2.1\PruebaApp.SL.pdb

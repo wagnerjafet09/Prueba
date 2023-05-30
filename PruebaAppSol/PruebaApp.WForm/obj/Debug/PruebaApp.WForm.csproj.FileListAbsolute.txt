@@ -12,3 +12,17 @@ C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.WForm\obj\Debug\PruebaApp.WForm.L
 C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.WForm\obj\Debug\PruebaApp.WForm.Home.resources
 C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.WForm\obj\Debug\PruebaApp.WForm.Student.resources
 C:\projects24\PruebaApp\PruebaAppSol\PruebaApp.WForm\obj\Debug\PruebaApp.WForm.Instructor.resources
+C:\PruebaPelix\Prueba\PruebaAppSol\PruebaApp.WForm\bin\Debug\PruebaApp.WForm.exe.config
+C:\PruebaPelix\Prueba\PruebaAppSol\PruebaApp.WForm\bin\Debug\PruebaApp.WForm.exe
+C:\PruebaPelix\Prueba\PruebaAppSol\PruebaApp.WForm\bin\Debug\PruebaApp.WForm.pdb
+C:\PruebaPelix\Prueba\PruebaAppSol\PruebaApp.WForm\obj\Debug\PruebaApp.WForm.csproj.AssemblyReference.cache
+C:\PruebaPelix\Prueba\PruebaAppSol\PruebaApp.WForm\obj\Debug\PruebaApp.WForm.csproj.SuggestedBindingRedirects.cache
+C:\PruebaPelix\Prueba\PruebaAppSol\PruebaApp.WForm\obj\Debug\PruebaApp.WForm.Instructor.resources
+C:\PruebaPelix\Prueba\PruebaAppSol\PruebaApp.WForm\obj\Debug\PruebaApp.WForm.Log_in.resources
+C:\PruebaPelix\Prueba\PruebaAppSol\PruebaApp.WForm\obj\Debug\PruebaApp.WForm.Properties.Resources.resources
+C:\PruebaPelix\Prueba\PruebaAppSol\PruebaApp.WForm\obj\Debug\PruebaApp.WForm.Home.resources
+C:\PruebaPelix\Prueba\PruebaAppSol\PruebaApp.WForm\obj\Debug\PruebaApp.WForm.Student.resources
+C:\PruebaPelix\Prueba\PruebaAppSol\PruebaApp.WForm\obj\Debug\PruebaApp.WForm.csproj.GenerateResource.cache
+C:\PruebaPelix\Prueba\PruebaAppSol\PruebaApp.WForm\obj\Debug\PruebaApp.WForm.csproj.CoreCompileInputs.cache
+C:\PruebaPelix\Prueba\PruebaAppSol\PruebaApp.WForm\obj\Debug\PruebaApp.WForm.exe
+C:\PruebaPelix\Prueba\PruebaAppSol\PruebaApp.WForm\obj\Debug\PruebaApp.WForm.pdb
